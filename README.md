@@ -4,6 +4,7 @@
 **Deadline:** Monday, April 6, 2026  
 **IG:** [NDH Implementation Guide](https://build.fhir.org/ig/HL7/fhir-us-ndh/)  
 **Pipeline:** GCS → Go ingestion → Cloud SQL (PostgreSQL) → Analysis
+**NOTE:** To access the NDJSON files, you must join the CMS Health Tech Ecosystem. However, they will soon be available as public use files (PUF) once they are out of beta.
 
 ## CMS Feedback Focus Areas
 CMS has specifically requested feedback on:
